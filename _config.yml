@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
+title: Portafolio
 email: ""
-description: "Photo Journal"
+description: "My portfolio"
 url: "https://NataliaBaut.github.io"
-baseurl: "/portafolio"
+baseurl: "/Portafolio"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://NataliaBaut.github.io/Portafolio/gallery/"  
+  - JOURNAL: "https://NataliaBaut.github.io/Portafolio/journal/"
+  - ABOUT: "https://NataliaBaut.github.io/Portafolio/about/"
 
 # All translation keys
 translations:
